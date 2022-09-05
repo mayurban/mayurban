@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayurban
-- 👀 I’m interested in Cycling, badminton, Python automation, DIY geen stuff
+- 👀 I’m interested in Cycling, badminton, Python automation, DIY Home stuff
 - 🌱 I’m currently learning x86 Arch, Xenon Server Chips, Cooking Thai Food
 - 📫 How to reach me mayur.bansal@intel.com
 
